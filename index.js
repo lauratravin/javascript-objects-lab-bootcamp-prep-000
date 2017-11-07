@@ -1,4 +1,4 @@
-//var object = { property : 'somevalue'};
+var object = { property : 'somevalue'};
 
 
 function updateObjectWithKeyAndValue(object, key, value){
