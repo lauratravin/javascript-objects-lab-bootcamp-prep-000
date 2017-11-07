@@ -1,4 +1,4 @@
-var object = { property : 'somevalue'};
+//var object = { property : 'somevalue'};
 
 
 function updateObjectWithKeyAndValue(object, key, value){
@@ -6,5 +6,13 @@ function updateObjectWithKeyAndValue(object, key, value){
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(){
-  
+
+}
+
+function deleteFromObjectByKey(){
+
+}
+
+function destructivelyDeleteFromObjectByKey(){
+
 }
