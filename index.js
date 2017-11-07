@@ -1,4 +1,4 @@
-
+var object = new Object{}; 
 
 
 function updateObjectWithKeyAndValue(object, key, value){
